@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\1大三上\答案\网技\ARP_Capture\ARP_Capture\main.cpp(65,8): warning C4101: “RevIP”: 未引用的局部变量
+D:\1大三上\答案\网技\ARP_Capture\ARP_Capture\main.cpp(64,8): warning C4101: “SendIP”: 未引用的局部变量
+  ARP_Capture.vcxproj -> D:\1大三上\答案\网技\ARP_Capture\Debug\ARP_Capture.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\1大三上\答案\网技\ARP_Capture\ARP_Capture\main.cpp(74,26): error C2065: “PCAP_SRC_IF_STRING”: 未声明的标识符
+D:\1大三上\答案\网技\ARP_Capture\ARP_Capture\main.cpp(74,6): error C3861: “pcap_findalldevs_ex”: 找不到标识符
+D:\1大三上\答案\网技\ARP_Capture\ARP_Capture\main.cpp(105,51): error C2065: “PCAP_OPENFLAG_PROMISCUOUS”: 未声明的标识符
+D:\1大三上\答案\网技\ARP_Capture\ARP_Capture\main.cpp(105,24): error C3861: “pcap_open”: 找不到标识符
